@@ -13,7 +13,3 @@ function validateForm() {
 
   return true;
 }
-
-const add = () => {
-  console.log('add');
-};
